@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    padding: 10px;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    min-width: 500px;
+}
+
+input{
+    width: 100%;
+    padding:10px;
+    display: inline-block;
+    margin-bottom: 6px;
+    border: 1.5px solid #006;
+}
+
+button{
+    padding: 10px 15px;
+    background-color: #006;
+    color: white;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#buttonDel{
+    background-color: rgb(215, 9, 9);
+}
+
+#ul-el{
+    margin: 20px 0 0 0;
+    list-style: none;
+}
+
+#ul-el li{
+    margin-top: 5px;
+}
+
+#ul-el li a{
+    color: #006;
+}
