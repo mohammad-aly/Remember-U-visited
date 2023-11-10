@@ -13,7 +13,7 @@ don't be confused about the name I forgot to change the name of the extension</h
 <img alt="step1" src="image4.png">
 <img alt="step1" src="image5.png">
 
-<h24. > We can also delete data in the box by pressing the<b>DELETE ALL</b> button</h2>
+<h2>4. We can also delete data in the box by pressing the <b>DELETE ALL</b> button</h2>
 <img alt="step1" src="image2.png">
 
 <h3><b>Thank you🫡</b> for going through my repo . This is my project which I developed while learning Java script .....</h3>
