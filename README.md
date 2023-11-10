@@ -1,5 +1,5 @@
 # Remember-U-visited
-This is a chrome extension Application , you can now store the web addresses / URL or any text of the tabs that u visited and can manipulate as your stores..
+This is a Chrome extension Application, you can now store the web addresses / URLs or any text of the tabs that u visited and can manipulate them as your stores...
 
 
 <h2>1. we will find the extension icon in the browser as shown in figure <br>
@@ -19,7 +19,4 @@ don't be confused of name i forgot to change the name of the extension</h2>
 <h3><b>Thank you🫡</b> for going through my repo . This is my project which i have developed while learning Java script .....</h3>
 
 <h2>GIVE THAT START TO REPO IF YOU LIKE 😊</h2>
-
-
-
 
